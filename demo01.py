@@ -26,3 +26,7 @@ print(len(a))
 b = input("请输入:")
 c = input("请输入：")
 print("他们长度的和为：",len(b)+len(c))
+
+"""
+第二次修改
+"""
